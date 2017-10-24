@@ -6,7 +6,6 @@ x=[-23.8,-21,-15.5,-13.5,-10,-6,0,4]                       #Adicionar os Valores
 y=[-0.65,-0.545,-0.46,-0.375,-0.260,-0.145,0,0.125]   #Adicionar os Valores Identificados para Y#
 z=[]
 yerr=[0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1]
-xerr=[]
 Sx=Sy=Sx2=Sy2=Sxy=Mx=Mx2=My=Spxy=Sqx=Sqy=Sxx=Syy=r=r2=0     # Variaveis : Sx -> Somatorio de X / Sx2 -> Somatorio de x² / Mx -> Media de x / Mx2 -> Media de X ao Quadrado #
                                                             #             Sy -> Somatorio de Y / Sy2 -> Somatorio de y² / My -> Media de y / Sxy -> Somatorio de x*y #
 
